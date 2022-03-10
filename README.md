@@ -1,4 +1,4 @@
-# elektra-verve-cutify
+# elektra-verve-hackify
 I am enough with stupid IoT web interface from elektra.
 
 - I am going to create a better interface through reverse engineering the protocol
