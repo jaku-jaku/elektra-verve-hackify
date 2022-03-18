@@ -26,3 +26,9 @@ I am enough with stupid IoT web interface from elektra.
 
 ## Ref to-read:
 - [ ] Espresso Profiler https://www.naked-portafilter.com/smart-espresso-profiler/
+
+
+# Demo:
+![img](./demo-imgs/screenshot.png)
+![img](./demo-imgs/scrn-light.png)
+![img](./demo-imgs/scrn-dark.png)
