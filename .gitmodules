@@ -1,3 +1,4 @@
 [submodule "elektra-dashboard"]
 	path = elektra-dashboard
-	url = git@github.com:JXproject/template-material-dashboard.git
+    url = git@github.com:JXproject/template-material-dashboard.git
+    branch = project/elektra-dashboard
