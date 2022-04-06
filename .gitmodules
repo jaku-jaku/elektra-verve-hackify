@@ -2,6 +2,3 @@
     path = elektra-dashboard
     url = git@github.com:JXproject/template-material-dashboard.git
 	branch = project/elektra-dashboard
-[submodule "elektra-mini-display/TTGO-T-Display"]
-	path = elektra-mini-display/TTGO-T-Display
-	url = git@github.com:Xinyuan-LilyGO/TTGO-T-Display.git
