@@ -29,6 +29,13 @@ I am enough with stupid IoT web interface from elektra.
 
 
 # Demo:
-![img](./demo-imgs/screenshot.png)
-![img](./demo-imgs/scrn-light.png)
-![img](./demo-imgs/scrn-dark.png)
+## Demo - Mini Dashboard with ESP32:
+![Display0](./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-0.jpg | width=100)
+![Display0](./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-1.jpg | width=100)
+![Display0](./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-2.jpg | width=100)
+![Display0](./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-3.jpg | width=100)
+
+## Demo - Dashboard Local Host (Raspberry):
+![img](./demo-imgs/screenshot.png | width=500)
+![img](./demo-imgs/scrn-light.png | width=500)
+![img](./demo-imgs/scrn-dark.png | width=500)
