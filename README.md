@@ -30,12 +30,12 @@ I am enough with stupid IoT web interface from elektra.
 
 # Demo:
 ## Demo - Mini Dashboard with ESP32:
-![Display0](./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-0.jpg | width=100)
-![Display0](./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-1.jpg | width=100)
-![Display0](./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-2.jpg | width=100)
-![Display0](./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-3.jpg | width=100)
+<img src="./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-0.jpg" width="160" >
+<img src="./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-1.jpg" width="160" >
+<img src="./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-2.jpg" width="160" >
+<img src="./elektra-mini-display/Elektra-Mini-Dash/data/mini-display-3.jpg" width="160" >
 
 ## Demo - Dashboard Local Host (Raspberry):
-![img](./demo-imgs/screenshot.png | width=500)
-![img](./demo-imgs/scrn-light.png | width=500)
-![img](./demo-imgs/scrn-dark.png | width=500)
+<img src="./demo-imgs/screenshot.png" width="500">
+<img src="./demo-imgs/scrn-light.png" width="500">
+<img src="./demo-imgs/scrn-dark.png"  width="500" >
